@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,0.1u,
+J1,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+J2,PinHeader_1x05_P2.54mm_Vertical,1,Conn_01x05_Pin,
+J3,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_Socket,
+J4,PinSocket_1x05_P2.54mm_Vertical,1,Conn_01x05_Socket,
+J5,CON_GROVE_H,1,HY2.0-4P,
+JP1,SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm,1,DATA SELECT,
+JP2,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,1,CLK,
+JP3,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,1,DAT,
+JP4,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,1,Gr1PIN,
+JP5,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,1,Gr2PIN,
+MIC1,Knowles_LGA-5_3.5x2.65mm,1,SPH0641LU4H-1,
